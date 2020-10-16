@@ -1,4 +1,4 @@
-# game
+# victorina
 
 ## Project setup
 ```
