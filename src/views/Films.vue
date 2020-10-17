@@ -49,7 +49,7 @@ export default {
       start: true,
       levels: [
         {
-          img: "/img/lev1.jpg",
+          img: "img/lev1.jpg",
           questions: [
             { title: "Командо", answer: false },
             { title: "Спасти рядового Райана", answer: false },
@@ -58,7 +58,7 @@ export default {
           ]
         },
         {
-          img: "/img/lev2.jpg",
+          img: "img/lev2.jpg",
           questions: [
             { title: "Титаник", answer: false },
             { title: "Пираты Карибского моря", answer: false },
@@ -67,7 +67,7 @@ export default {
           ]
         },
         {
-          img: "/img/lev3.jpg",
+          img: "img/lev3.jpg",
           questions: [
             { title: "Аватар", answer: true },
             { title: "Вертикальный взлет", answer: false },
@@ -76,7 +76,7 @@ export default {
           ]
         },
         {
-          img: "/img/lev4.jpg",
+          img: "img/lev4.jpg",
           questions: [
             { title: "Разрушение", answer: false },
             { title: "Планета Обезьян", answer: false },
