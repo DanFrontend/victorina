@@ -10,7 +10,7 @@ import Films from './views/Films'
 export default {
   name: 'App',
   components: {
-    Films
+    Films,
   }
 }
 </script>
